@@ -1,18 +1,17 @@
+# Pre-work - *Tip_Calculator*
 
-# Pre-work - Tip_calculator
+**Tip_Calculator** is a tip calculator application for iOS.
 
-Tip_calculator is a tip calculator application for iOS.
+Submitted by: **Tianjiao Qu**
 
-Submitted by: Tianjiao Qu
-
-Time spent: 5 hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is complete:
 
-* User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [x] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -35,11 +34,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-
+Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright 2020 Tianjiao Qu
+    Copyright [2020] [Tianjiao Qu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
